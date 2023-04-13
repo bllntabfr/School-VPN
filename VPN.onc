@@ -8,12 +8,12 @@
       "NameServersConfigType": "Static",
       "StaticIPConfig": {
         "NameServers": [
-          "5.189.139.56"
+          "2.56.119.93"
         ]
       },
       "VPN": {
         "AutoConnect": true,
-        "Host": "5.189.139.56",
+        "Host": "2.56.119.93",
         "IPsec": {
           "IKEVersion": 1,
           "AuthenticationType": "PSK",
@@ -21,8 +21,8 @@
           "SaveCredentials": true
         },
         "L2TP": {
-          "Username": "vpnuser",
-          "Password": "nUgfJYKT8nm7PyXa"
+          "Username": "oxunztdj",
+          "Password": "j83ocm1rsu0a"
         },
         "Type": "L2TP-IPsec"
       }
